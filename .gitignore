@@ -1,0 +1,6 @@
+*~
+*.elc
+*.log
+*.orig
+\#*#
+.DS_Store
