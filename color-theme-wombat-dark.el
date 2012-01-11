@@ -19,7 +19,7 @@
   "Color theme by Lars Nielsen, Emacsified by Peter Severin and Scott Jaderholm."
   (interactive)
   (color-theme-install
-   '(color-theme-wombat+
+   '(color-theme-wombat-dark
      (
       (background-color . "black")
       ;; (background-color . "#303030")
